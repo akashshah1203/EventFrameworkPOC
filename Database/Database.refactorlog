@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="fdd31546-8679-4827-97da-885b5510da4d" ChangeDateTime="01/06/2016 09:16:26">
+    <Property Name="ElementName" Value="[dbo].[Subscription].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Subscription]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="SubscriptionId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a9a2e8db-3dab-4d1f-906b-de81ee1937f1" ChangeDateTime="01/06/2016 09:21:00">
+    <Property Name="ElementName" Value="[dbo].[EventType].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[EventType]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="EventTypeId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="2a892467-5352-421b-a9ae-ea822dd7329e" ChangeDateTime="01/06/2016 09:22:02">
+    <Property Name="ElementName" Value="[dbo].[Merchant].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Merchant]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="MerchantId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="32ee6e40-7247-46b5-8159-0b1dbfab8e6b" ChangeDateTime="01/06/2016 09:22:52">
+    <Property Name="ElementName" Value="[dbo].[NotificationType].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[NotificationType]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="NotificationId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="81e41b5a-62ee-44d9-a5cc-31e28c000139" ChangeDateTime="01/06/2016 09:23:39">
+    <Property Name="ElementName" Value="[dbo].[EmailNotificationSetting].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[EmailNotificationSetting]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="NotificationId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="32c5247f-46cc-4fab-8f83-57ac9d4a5b72" ChangeDateTime="01/06/2016 09:24:56">
+    <Property Name="ElementName" Value="[dbo].[SmsNotificationSetting].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[SmsNotificationSetting]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="NotificationId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="8858f385-ccd9-4ec0-a83e-1fd20c28ef15" ChangeDateTime="01/06/2016 09:25:59">
+    <Property Name="ElementName" Value="[dbo].[WebhookNotificationSetting].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[WebhookNotificationSetting]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="NotificationId" />
+  </Operation>
+</Operations>
