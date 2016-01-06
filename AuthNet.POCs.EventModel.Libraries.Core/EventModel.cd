@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AuthNet.POCs.EventModel.Libraries.Core.EmailNotificationSetting">
+    <Position X="0.5" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>EmailNotificationEndpoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuthNet.POCs.EventModel.Libraries.Core.EventManager">
+    <Position X="9" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>EventManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuthNet.POCs.EventModel.Libraries.Core.EventType">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuthNet.POCs.EventModel.Libraries.Core.EventTypeDefinitions">
+    <Position X="11.25" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventTypeDefinition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuthNet.POCs.EventModel.Libraries.Core.Notification">
+    <Position X="5.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Notification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuthNet.POCs.EventModel.Libraries.Core.NotificationEndpoint">
+    <Position X="2.75" Y="3" Width="2" />
+    <NestedTypes>
+      <Enum Name="AuthNet.POCs.EventModel.Libraries.Core.NotificationEndpoint.NotificationTypes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>NotificationEndpoint.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>NotificationEndpoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuthNet.POCs.EventModel.Libraries.Core.SmsNotificationSetting">
+    <Position X="2.75" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SmsNotificationEndpoint.cs</FileName>
+      <NewMemberFileName>SMSNotificationEndpoint.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuthNet.POCs.EventModel.Libraries.Core.Subscription">
+    <Position X="0.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACACAEAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subscription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuthNet.POCs.EventModel.Libraries.Core.SubscriptionManager">
+    <Position X="11.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAACAAAAQAAAAACAAAA=</HashCode>
+      <FileName>SubscriptionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuthNet.POCs.EventModel.Libraries.Core.WebhookNotificationSetting">
+    <Position X="5.25" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>WebhookNotificationEndpoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuthNet.POCs.EventModel.Libraries.Core.MerchantManager">
+    <Position X="9" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MerchantManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
